@@ -1,1 +1,1 @@
-# MS-B760ITX-Hackintosh
+# MS-B760ITX-Hackintosh  待更新中
