@@ -1,1 +1,1 @@
-# MS-B760ITX-Hackintosh  待更新中
+# MS-终结者 B760ITX D4 WIFI-Hackintosh  待更新中
