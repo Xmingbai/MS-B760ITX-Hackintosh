@@ -1,5 +1,7 @@
 # MS-终结者 B760ITX D4 WIFI-Hackintosh  待更新中
 
+# 测评视频：https://www.bilibili.com/video/BV15M4y117My
+
 # Ver1.0 OC090正式版 支持Catalina 10.15.x、big sur 11.x、Monterey 12.x、Ventura 13.x
 
 ☆ 有线网卡正常
