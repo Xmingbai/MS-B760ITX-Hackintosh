@@ -14,6 +14,8 @@
 
 ☆ 睡眠与唤醒皆正常，支持USB键鼠唤醒
 
+☆ 默认config.plist 支持大小核心的CPU型号；仅有大核心的CPU型号，需关闭provideCurrentCpuInfo
+
 ![](https://github.com/Xmingbai/MS-B760ITX-Hackintosh/blob/main/1.png)
 ![](https://github.com/Xmingbai/MS-B760ITX-Hackintosh/blob/main/2.png)
 ![](https://github.com/Xmingbai/MS-B760ITX-Hackintosh/blob/main/3.png)
